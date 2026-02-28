@@ -4,4 +4,16 @@ body{
     background: darkgreen;
 }
 
+.top-suit, .bottom-suit {
+    font-size: 5rem;
+}
 
+.value {
+    font-size: 8rem;
+
+}
+
+.card {
+    border-radius: 16px;
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.3);
+}
