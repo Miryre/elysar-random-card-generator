@@ -16,9 +16,11 @@ window.onload = function() {
 
   let randomValue = Math.floor(Math.random() * values.length);
 
-  let randomSuit = Math.floor(Math.random() * suits.length)
+  let randomSuit = Math.floor(Math.random() * suits.length);
 
-  console.log(suits[randomSuit], values[randomValue], suits[randomSuit]);
+
+
+  //console.log(suits[randomSuit], values[randomValue], suits[randomSuit]);
 
 
 
